@@ -37,13 +37,13 @@
         <mxCell id="Jm20txPezQEhfZJl_plG-6" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;骑士队时期介绍&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=0;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jm20txPezQEhfZJl_plG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;flowAnimation=0;" edge="1" parent="1" source="Jm20txPezQEhfZJl_plG-7" target="Jm20txPezQEhfZJl_plG-11">
+        <mxCell id="Jm20txPezQEhfZJl_plG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;" edge="1" parent="1" source="Jm20txPezQEhfZJl_plG-7" target="Jm20txPezQEhfZJl_plG-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jm20txPezQEhfZJl_plG-7" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;湖人队时期介绍&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=0;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="270" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jm20txPezQEhfZJl_plG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Jm20txPezQEhfZJl_plG-8" target="Jm20txPezQEhfZJl_plG-12">
+        <mxCell id="Jm20txPezQEhfZJl_plG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="1" source="Jm20txPezQEhfZJl_plG-8" target="Jm20txPezQEhfZJl_plG-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jm20txPezQEhfZJl_plG-8" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;我的记录&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=0;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" vertex="1" parent="1">
