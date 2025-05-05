@@ -62,7 +62,7 @@
           <mxGeometry x="760" y="450" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_rUtAFln0R8dRFleSR1u-1" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;root&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#adcfff;strokeColor=#6c8ebf;glass=0;shadow=0;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-30" width="140" height="60" as="geometry" />
+          <mxGeometry x="380" y="-30" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
