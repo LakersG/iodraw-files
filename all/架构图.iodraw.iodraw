@@ -61,7 +61,10 @@
         <mxCell id="Jm20txPezQEhfZJl_plG-12" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;数据可视化展示&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;glass=0;shadow=0;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="760" y="450" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_rUtAFln0R8dRFleSR1u-1" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;root&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#adcfff;strokeColor=#6c8ebf;glass=0;shadow=0;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_rUtAFln0R8dRFleSR1u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="_rUtAFln0R8dRFleSR1u-1" target="Jm20txPezQEhfZJl_plG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUtAFln0R8dRFleSR1u-1" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;root&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#adcfff;strokeColor=#6c8ebf;glass=0;shadow=0;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="-30" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
